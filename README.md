@@ -14,10 +14,6 @@ I developed a sentiment analysis that classifies text into positive or negative 
 
 Data Preprocessing: Implemented comprehensive data cleaning, tokenization, and stopword removal.
 
-Model Development: Built and fine-tuned a logistic regression model using scikit-learn.
-
-Web Application: Created a user-friendly web interface with Flask for real-time sentiment analysis.
-
-Deployment: Deployed the application using Docker, ensuring a seamless and scalable setup.
+Model Training: Built and fine-tuned a logistic regression model using scikit-learn.
 
 This project has been an incredible learning experience, especially in tackling challenges like imbalanced datasets and optimizing model performance. I'm proud of the results and look forward to exploring more in this domain!
