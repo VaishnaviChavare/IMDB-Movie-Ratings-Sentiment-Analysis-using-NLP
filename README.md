@@ -10,7 +10,8 @@ I tested the model taking a text sentence from the dataset and it gave me correc
 
 I developed a sentiment analysis that classifies text into positive or negative sentiments. This analysis leverages data preprocessing, and a logistic regression model to provide accurate sentiment classification.
 
-Key Highlights:
+#Key Highlights:
+
 Data Preprocessing: Implemented comprehensive data cleaning, tokenization, and stopword removal.
 
 Model Development: Built and fine-tuned a logistic regression model using scikit-learn.
